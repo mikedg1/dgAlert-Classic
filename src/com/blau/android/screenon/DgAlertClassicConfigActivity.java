@@ -19,12 +19,11 @@ package com.blau.android.screenon;
 import android.content.pm.PackageManager;
 import android.content.pm.PackageManager.NameNotFoundException;
 import android.os.Bundle;
-import android.os.Handler;
 import android.preference.DialogPreference;
 import android.preference.PreferenceActivity;
 
 import com.blau.android.screenon.preferences.EmailDialogPreference;
-import com.blau.android.shared.splashnotes.SplashNotes;
+import com.mikedg.android.shared.splashnotes.SplashNotes;
 
 public class DgAlertClassicConfigActivity extends PreferenceActivity {
 	private String version;
