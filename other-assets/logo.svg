@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="logo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="6.1230318e-14 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3232"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-1.76462"
+     inkscape:cy="538.58362"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2389" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#5fc714;fill-opacity:1;stroke:#ffffff;stroke-width:1.29067063;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3270"
+       sodipodi:cx="309.10715"
+       sodipodi:cy="432.36218"
+       sodipodi:rx="17.678572"
+       sodipodi:ry="17.142857"
+       d="M 292.03096,436.79908 A 17.678572,17.142857 0 1 1 326.18334,436.79908"
+       sodipodi:start="2.8797933"
+       sodipodi:end="6.5449847"
+       transform="matrix(4.5731965,0,0,3.2816274,-1282.7601,-996.4894)"
+       sodipodi:open="true"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <path
+       style="fill:#5fc714;fill-opacity:1;stroke:#ffffff;stroke-width:5.09522057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 50.161326,430.08093 L 50.161326,462.95593 L 50.161326,540.08093 L 50.161326,568.42468 C 50.161326,575.56691 55.894106,581.33091 63.036326,581.33093 L 81.942576,581.33093 L 81.942576,615.36218 C 81.942576,625.90768 90.08843,634.39345 100.22383,634.39343 C 110.35923,634.39343 118.50508,625.90766 118.50508,615.36218 L 118.50508,581.33093 L 143.69258,581.33093 L 143.69258,615.26843 C 143.69258,625.81393 151.83843,634.2997 161.97383,634.29968 C 172.10923,634.29968 180.28633,625.81391 180.28633,615.26843 L 180.28633,581.33093 L 198.59883,581.33093 C 205.74106,581.33093 211.50508,575.5669 211.50508,568.42468 L 211.50508,540.08093 L 211.50508,462.95593 L 211.50508,430.08093 L 50.161326,430.08093 z"
+       id="rect3319"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <rect
+       style="fill:#5fc714;fill-opacity:1;stroke:#ffffff;stroke-width:5.09522057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3272"
+       width="36.589882"
+       height="73.095177"
+       x="-151.77594"
+       y="529.50208"
+       ry="19.035202"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <rect
+       style="fill:#5fc714;fill-opacity:1;stroke:#ffffff;stroke-width:5.09522057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3268"
+       width="36.589882"
+       height="73.095177"
+       x="-90.012184"
+       y="529.40979"
+       ry="19.035202"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <path
+       style="fill:#5fc714;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -183.54199,398.27661 L -183.54199,431.15161 L -183.54199,508.27661 L -183.54199,536.62036 C -183.54199,543.76259 -177.80921,549.52659 -170.66699,549.52661 L -35.104492,549.52661 C -27.962262,549.52661 -22.198242,543.76258 -22.198242,536.62036 L -22.198242,508.27661 L -22.198242,431.15161 L -22.198242,398.27661 L -183.54199,398.27661 z"
+       id="rect3264" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3177"
+       width="400"
+       height="380"
+       x="320"
+       y="232.36218"
+       ry="19.924166" />
+    <rect
+       style="fill:#5fc714;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3266"
+       width="39.848331"
+       height="107.82491"
+       x="9.8972893"
+       y="431.06662"
+       ry="19.924166"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <rect
+       style="fill:#5fc714;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3274"
+       width="39.848331"
+       height="107.82491"
+       x="211.45267"
+       y="431.06662"
+       ry="19.924166"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <path
+       style="fill:#5fc714;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 185.10515,343.89945 C 165.41538,373.4341 165.41538,373.4341 165.41538,373.4341 L 165.41538,373.4341"
+       id="path3276"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <path
+       style="fill:#5fc714;fill-rule:evenodd;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 80.093076,343.89945 C 96.501213,370.15247 96.501213,370.15247 96.501213,370.15247"
+       id="path3278"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#dde310;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2411"
+       sodipodi:cx="110"
+       sodipodi:cy="442.36218"
+       sodipodi:rx="20"
+       sodipodi:ry="5"
+       d="M 130,442.36218 A 20,5 0 1 1 129.31852,441.06809"
+       sodipodi:start="0"
+       sodipodi:end="6.0213859"
+       sodipodi:open="true"
+       transform="matrix(0.375,0,0,1.5,91.25,-213.68109)"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2387"
+       sodipodi:cx="126.26907"
+       sodipodi:cy="502.8392"
+       sodipodi:rx="52.527931"
+       sodipodi:ry="52.527931"
+       d="M 178.797,502.8392 A 52.527931,52.527931 0 1 1 73.741142,502.8392 A 52.527931,52.527931 0 1 1 178.797,502.8392 z"
+       transform="matrix(0.9994682,0,0,1,6.2980729,0)"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect2405"
+       width="105.05586"
+       height="65.659912"
+       x="80"
+       y="497.36218"
+       ry="0"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2407"
+       sodipodi:cx="77.5"
+       sodipodi:cy="547.36218"
+       sodipodi:rx="12.5"
+       sodipodi:ry="15"
+       d="M 90,547.36218 A 12.5,15 0 0 1 66.67268,554.85802 L 77.5,547.36218 z"
+       sodipodi:start="0"
+       sodipodi:end="2.6183143"
+       transform="translate(2.5,0)"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2409"
+       sodipodi:cx="77.5"
+       sodipodi:cy="547.36218"
+       sodipodi:rx="12.5"
+       sodipodi:ry="15"
+       d="M 90,547.36218 A 12.5,15 0 0 1 66.67268,554.85802 L 77.5,547.36218 z"
+       sodipodi:start="0"
+       sodipodi:end="2.6183143"
+       transform="matrix(-1,0,0,1,262.5,0)"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <path
+       style="fill:#ffff78;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 138.75 457.375 C 138.05084 457.375 137.34568 457.36985 136.65625 457.40625 C 152.02281 458.28805 164.7892 471.41357 168.8125 490.71875 L 170 502.375 C 170 504.53079 169.88458 506.64358 169.65625 508.71875 C 173.04911 503.58596 175 497.55761 175 491.09375 L 173.75 482.375 C 169.43419 467.38791 155.425 457.37499 138.75 457.375 z M 113.125 467.25 C 108.95108 471.13375 105.77946 475.94969 104.03125 481.34375 C 106.28264 475.87422 109.39842 471.09277 113.125 467.25 z "
+       id="path3183"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <rect
+       style="fill:#ffff78;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3185"
+       width="5"
+       height="55"
+       x="170"
+       y="492.36218"
+       ry="3.9285715"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <image
+       y="441.29077"
+       x="317.42856"
+       id="image3234"
+       height="90"
+       width="368"
+       sodipodi:absref="C:\Documents and Settings\Michael DiGiovanni\My Documents\DVD Anytime Workspace\dgAlert Classic\Source Images\pastedpic_02202009_214404.png"
+       xlink:href="pastedpic_02202009_214404.png"
+       style="fill:#00ff00" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3238"
+       width="48"
+       height="41.07143"
+       x="331"
+       y="471.29074"
+       ry="3.9285715" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3240"
+       width="12.142858"
+       height="32.857143"
+       x="317"
+       y="471.36218"
+       ry="6.0714288" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3244"
+       width="11.160714"
+       height="21.428572"
+       x="358.83929"
+       y="509.36218"
+       ry="5.5803571" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3252"
+       sodipodi:cx="309.10715"
+       sodipodi:cy="432.36218"
+       sodipodi:rx="17.678572"
+       sodipodi:ry="17.142857"
+       d="M 292.03096,436.79908 A 17.678572,17.142857 0 1 1 326.18334,436.79908"
+       sodipodi:start="2.8797933"
+       sodipodi:end="6.5449847"
+       transform="matrix(1.3935758,0,0,1,-75.769239,32.857142)"
+       sodipodi:open="true" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3254"
+       width="11.160714"
+       height="21.428572"
+       x="340"
+       y="510.93362"
+       ry="5.5803571" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3256"
+       width="12.142858"
+       height="32.857143"
+       x="380.85715"
+       y="471.36218"
+       ry="6.0714288" />
+    <path
+       style="fill:#00ff00;fill-rule:evenodd;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 371,442.36218 C 365,451.36218 365,451.36218 365,451.36218 L 365,451.36218"
+       id="path3260" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 339,442.36218 C 344,450.36218 344,450.36218 344,450.36218"
+       id="path3262" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#00ff00;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3280"
+       sodipodi:cx="167.5"
+       sodipodi:cy="389.86218"
+       sodipodi:rx="7.5"
+       sodipodi:ry="7.5"
+       d="M 175,389.86218 A 7.5,7.5 0 1 1 160,389.86218 A 7.5,7.5 0 1 1 175,389.86218 z"
+       transform="translate(-7.5,-3)"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#00ff00;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3282"
+       sodipodi:cx="167.5"
+       sodipodi:cy="389.86218"
+       sodipodi:rx="7.5"
+       sodipodi:ry="7.5"
+       d="M 175,389.86218 A 7.5,7.5 0 1 1 160,389.86218 A 7.5,7.5 0 1 1 175,389.86218 z"
+       transform="translate(-62.252538,-3)"
+       inkscape:export-filename="J:\Android Workspace\dgApplicationsGPL\dgAlertClassic\res\drawable\icon.png"
+       inkscape:export-xdpi="14.634667"
+       inkscape:export-ydpi="14.634667" />
+  </g>
+</svg>
