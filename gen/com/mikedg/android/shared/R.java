@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.blau.android.screenon;
+package com.mikedg.android.shared;
 
 public final class R {
     public static final class array {

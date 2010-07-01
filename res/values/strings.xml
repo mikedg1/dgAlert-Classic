@@ -36,7 +36,7 @@
    <string name="pref_about_key">about</string>
    <string name="pref_about_title">About</string>
    <string name="pref_about_summary">About dgAlert Classic</string>
-   <string name="pref_about_text">dgAlert Concept and these modifications created by: Mike DG\nEmail: alertandroid@mikedg.com\nWebsite: http://android.mikedg.com\n\nOriginal base code created and GPl'ed by Adam K.\n\nEmail: adam@everythingandroid.net\n\ndgAlert Classic is an application to enhance the usability of SMS alerts on your phone.\n\nGPL license available at http://www.gnu.org/licenses/gpl.txt \n\nSource code available at http://android.mikedg.com/Home/dgAlertClassic.zip\n\n</string>
+   <string name="pref_about_text">dgAlert Concept and these modifications created by: Mike DG\nEmail: alertandroid@mikedg.com\nWebsite: http://android.mikedg.com\n\nOriginal base code created and GPl\'ed by Adam K.\n\nEmail: adam@everythingandroid.net\n\ndgAlert Classic is an application to enhance the usability of SMS alerts on your phone.\n\nGPL license available at http://www.gnu.org/licenses/gpl.txt \n\nSource code available at http://android.mikedg.com/Home/dgAlertClassic.zip\n\n</string>
    
    <string name="pref_sendemail_key">sendemail</string>
    <string name="pref_sendemail_title">E-mail the Developer</string>
